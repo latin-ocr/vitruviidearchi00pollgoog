@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitruviidearchi00pollgoog_0035.png"; bbox 0 0 2664 3927; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 967 1617 1767 1730">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 967 1617 1767 1730">
+     <span class='ocr_line' id='line_1_1' title="bbox 967 1617 1767 1730; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 967 1617 1767 1730; x_wconf 83' lang='lat' dir='ltr'><strong>VITRUVII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 393 1947 2340 2049">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 393 1947 2340 2049">
+     <span class='ocr_line' id='line_1_2' title="bbox 393 1947 2340 2049; baseline 0.001 -20"><span class='ocrx_word' id='word_1_2' title='bbox 393 1947 548 2029; x_wconf 81' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 603 1947 1508 2035; x_wconf 80' lang='lat' dir='ltr'><strong>ARCHITECTURA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1562 1948 1881 2033; x_wconf 83' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_5' title='bbox 1937 1947 2340 2049; x_wconf 82' lang='lat' dir='ltr'>DECEM</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
